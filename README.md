@@ -2,7 +2,7 @@
 # 👨‍💻 Marcelino Souza
 
 **`Desenvolvedor Frontend`**
-Me chamo Marcelino Souza, sou desenvolvedor em formação com foco em tecnologias web modernas. Tenho conhecimentos sólidos em JavaScript, React e Node.js, além de experiência com bancos de dados MySQL. Atualmente cursando Engenharia de Software na Anhanguera, estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos inovadores.
+Me chamo Marcelino Souza, sou desenvolvedor em formação. Tenho conhecimentos sólidos em JavaScript, React e Node.js, além de experiência com bancos de dados MySQL. Atualmente cursando Engenharia de Software na Anhanguera, estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos, estou sempre em busca de mais conhecimesntos e desenvolvimento profissional.
 
 <p align="left">
     <a href="mailto:marcelinosouza.dev@gmail.com">
@@ -102,20 +102,20 @@ Me chamo Marcelino Souza, sou desenvolvedor em formação com foco em tecnologia
 ### 📊 Estatísticas
 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcellino-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=marcellino-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        height="180"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellino-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellino-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
