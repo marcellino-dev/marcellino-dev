@@ -1,121 +1,94 @@
-## Marcelino
-# 👨‍💻 Marcelino Souza
+<div align="center">
 
-**`Desenvolvedor Frontend`**
-Me chamo Marcelino Souza, sou desenvolvedor em formação. Tenho conhecimentos sólidos em JavaScript, React e Node.js, além de experiência com bancos de dados MySQL. Atualmente cursando Engenharia de Software na Anhanguera, estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos, estou sempre em busca de mais conhecimesntos e desenvolvimento profissional.
+# Marcelino Souza
+### Desenvolvedor Back-end Java
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+Java;Spring+Boot+%7C+APIs+REST+%7C+SQL;Engenharia+de+Software+em+formação)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor em formação com foco em **Back-end Java**, apaixonado por construir soluções robustas e escaláveis. Tenho experiência sólida com **Java**, **Spring Boot**, **APIs REST** e **integração com bancos de dados relacionais**, além de boas práticas de desenvolvimento e noções de arquitetura de sistemas.
+
+Curso **Engenharia de Software na Anhanguera** e estou sempre em busca de novos desafios para aplicar meus conhecimentos em projetos reais e evoluir continuamente como profissional.
 
 <p align="left">
-    <a href="mailto:marcelinosouza.dev@gmail.com">
-        <img 
-            alt="Email" 
-            title="Entre em contato" 
-            src="https://custom-icon-badges.demolab.com/badge/-marcelinosouza.dev@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-    <a href="tel:+5547989299801">
-        <img 
-            alt="WhatsApp" 
-            title="WhatsApp" 
-            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-(47)98929--9801-25D366?style=for-the-badge&logo=phone&logoColor=white"
-        />
-    </a> 
-    <a href="https://github.com/marcellino-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/marcellino-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/marcellino-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/marcellino-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="mailto:marcelinosouza.dev@gmail.com">
+    <img 
+      alt="Email" 
+      title="Entre em contato" 
+      src="https://custom-icon-badges.demolab.com/badge/Email-marcelinosouza.dev%40gmail.com-D14836?style=for-the-badge&logo=mail&logoColor=white"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/marcellino-dev?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/marcellino-dev?style=for-the-badge&logo=github&label=Seguidores&color=236ad3"
+    />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+**Back-end**
 
-<br/>
-<br/>
+<p align="left">
+  <img title="Java" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img title="Spring Boot" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img title="MySQL" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="PostgreSQL" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</p>
 
-### 📊 Estatísticas
+**Front-end (conhecimento complementar)**
 
+<p align="left">
+  <img title="HTML5" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="CSS3" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="JavaScript" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="React" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=marcellino-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-        height="180"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellino-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+**Ferramentas & Versionamento**
 
+<p align="left">
+  <img title="Git" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img title="GitHub" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img title="VS Code" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img title="IntelliJ IDEA" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img title="Docker" width="40px" style="margin-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcellino-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=10"
+    height="175"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcellino-dev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide_border=true&border_radius=10"
+    height="175"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=marcellino-dev&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR"
+    height="175"
+  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcellino-dev&style=for-the-badge&color=6A5ACD" alt="Visualizações do perfil" />
+</div>
