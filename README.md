@@ -71,11 +71,11 @@ Curso **Engenharia de Software na Anhanguera** e estou sempre em busca de novos 
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcellino-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=10"
+    src="https://github-readme-stats-m11qjzvrh-marcelinosouzadev-1007s-projects.vercel.app/api?username=marcellino-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&border_radius=10"
     height="175"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcellino-dev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide_border=true&border_radius=10"
+    src="https://github-readme-stats-m11qjzvrh-marcelinosouzadev-1007s-projects.vercel.app/api/top-langs/?username=marcellino-dev&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8&hide_border=true&border_radius=10"
     height="175"
   />
 </div>
