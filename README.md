@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor em formação com foco em **Back-end Java**, apaixonado por construir soluções robustas e escaláveis. Tenho experiência sólida com **Java**, **Spring Boot**, **APIs REST** e **integração com bancos de dados relacionais**, além de boas práticas de desenvolvimento e noções de arquitetura de sistemas.
+Sou desenvolvedor em formação com foco em **Back-end Java**, melhorando minhas habilidades com **Java**, **Spring Boot**, **APIs REST** e **integração com bancos de dados relacionais**, além de boas práticas de desenvolvimento e noções de arquitetura de sistemas.
 
 Curso **Engenharia de Software na Anhanguera** e estou sempre em busca de novos desafios para aplicar meus conhecimentos em projetos reais e evoluir continuamente como profissional.
 
